@@ -1,5 +1,5 @@
 # The-DES-Algorithm-Illustrated-for-C-code
-by writer J. Orlin Grabbe
+by J. Orlin Grabbe
 
 
  The **DES (Data Encryption Standard)** algorithm is the most widely used encryption algorithm in the world. 
